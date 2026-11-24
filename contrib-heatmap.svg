@@ -5131,12 +5131,26 @@
     <rect x="929" y="92"
           width="13" height="13"
           rx="3"
-          fill="#161b22"
+          fill="#0e4429"
           opacity="0">
 
         <animate attributeName="opacity"
                  from="0" to="1"
                  begin="1.315s"
+                 dur="0.35s"
+                 fill="freeze"/>
+    </rect>
+    
+
+    <rect x="929" y="109"
+          width="13" height="13"
+          rx="3"
+          fill="#0e4429"
+          opacity="0">
+
+        <animate attributeName="opacity"
+                 from="0" to="1"
+                 begin="1.330s"
                  dur="0.35s"
                  fill="freeze"/>
     </rect>
