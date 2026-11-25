@@ -5155,6 +5155,20 @@
                  fill="freeze"/>
     </rect>
     
+
+    <rect x="929" y="126"
+          width="13" height="13"
+          rx="3"
+          fill="#0e4429"
+          opacity="0">
+
+        <animate attributeName="opacity"
+                 from="0" to="1"
+                 begin="1.345s"
+                 dur="0.35s"
+                 fill="freeze"/>
+    </rect>
+    
 <text x="20" y="239" fill="#8b949e" font-size="10" font-family="monospace">Less</text>
 <rect x="55" y="228" width="13" height="13" rx="3" fill="#161b22"/>
 <rect x="75" y="228" width="13" height="13" rx="3" fill="#0e4429"/>
